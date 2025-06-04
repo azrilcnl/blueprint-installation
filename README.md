@@ -1,4 +1,4 @@
-# nebula-theme
+# blueprint-installation
 This Theme Free By AzrilCnl
 So don't sell it, if you are caught selling it, it means you don't respect me.
 
@@ -42,5 +42,4 @@ chmod +x blueprint.sh
 ```
 bash blueprint.sh
 ```
-3. theme installaniton
-```
+3. you are done
