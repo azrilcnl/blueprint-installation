@@ -1,6 +1,5 @@
 # blueprint-installation
-This Theme Free By AzrilCnl
-So don't sell it, if you are caught selling it, it means you don't respect me.
+blueprint is an add-on for pterodactyl so you can install a theme very easily
 
 
 # Installation
